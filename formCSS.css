@@ -1,0 +1,14 @@
+
+.error {
+    color: red;
+}
+
+.bg-container {
+  background-image: "bgimg.jpg";
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.row{
+  text-align: right;
+  text-align: justify;
+}
